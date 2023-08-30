@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/4mryfwatna90ft10?svg=true)](https://ci.appveyor.com/project/Ekaterlna/hwapicipostman)
